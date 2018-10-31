@@ -5,7 +5,7 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://github.com/atom/node-ls-archive/raw/master/LICENSE.md"
+      "url": "http://github.com/noamross/node-ls-archive/raw/master/LICENSE.md"
     }
   ],
   "keywords": [
@@ -25,10 +25,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/atom/node-ls-archive.git"
+    "url": "https://github.com/noamross/node-ls-archive.git"
   },
   "bugs": {
-    "url": "https://github.com/atom/node-ls-archive/issues"
+    "url": "https://github.com/noamross/node-ls-archive/issues"
   },
   "homepage": "http://atom.github.io/node-ls-archive",
   "main": "./lib/ls-archive.js",
